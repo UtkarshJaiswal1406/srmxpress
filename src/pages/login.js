@@ -7,7 +7,7 @@ function Login() {
       <div className="container">
         <div className="login-box">
           <h2>Login to your Account</h2>
-          <p>Welcome back! Select method to log in:</p>
+          <p>Welcome backs! Select method to log in:</p>
           <button className="google-btn">
             <div className="google-btn-content">
               <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png" alt="Google" className="google-logo" />
